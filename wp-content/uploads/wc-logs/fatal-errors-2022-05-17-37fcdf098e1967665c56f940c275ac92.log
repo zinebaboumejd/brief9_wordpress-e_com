@@ -1,0 +1,4 @@
+2022-05-17T15:12:36+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 8192 bytes) in C:\wamp64\www\wordpresscom\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\WooCommercePayments.php on line 74
+
+2022-05-17T15:12:41+00:00 CRITICAL Out of memory (allocated 44040192) (tried to allocate 8192 bytes) in C:\wamp64\www\wordpresscom\wp-content\plugins\elementor\core\app\modules\import-export\module.php on line 316
+

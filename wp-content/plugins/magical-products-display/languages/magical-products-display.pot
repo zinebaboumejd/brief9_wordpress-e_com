@@ -1,0 +1,610 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Magical products Display\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-24 16:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.7.2\n"
+"X-Domain: magical-products-display"
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: magical-products-display.php:318 magical-products-display.php:343
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Elementor installation link
+#: magical-products-display.php:234 magical-products-display.php:246
+#: magical-products-display.php:276 magical-products-display.php:288
+#, php-format
+msgid "%1$s requires %2$s plugin, which is currently NOT RUNNING  %3$s"
+msgstr ""
+
+#: includes/widgets/products-grid.php:242
+msgid "1"
+msgstr ""
+
+#: includes/widgets/products-grid.php:243
+msgid "2"
+msgstr ""
+
+#: includes/widgets/products-grid.php:244
+msgid "3"
+msgstr ""
+
+#: includes/widgets/products-grid.php:245
+msgid "4"
+msgstr ""
+
+#: includes/widgets/products-grid.php:246
+msgid "6"
+msgstr ""
+
+#: magical-products-display.php:237
+msgid "Activate Elementor"
+msgstr ""
+
+#: magical-products-display.php:279
+msgid "Activate WooCommerce"
+msgstr ""
+
+#: includes/widgets/products-grid.php:112
+#: includes/widgets/products-list.php:111
+msgid "Add ID Manually"
+msgstr ""
+
+#: includes/widgets/products-grid.php:444
+#: includes/widgets/products-list.php:439
+msgid "Add to card button"
+msgstr ""
+
+#: includes/widgets/products-grid.php:358
+#: includes/widgets/products-list.php:353
+msgid "Alignment"
+msgstr ""
+
+#: includes/widgets/products-grid.php:206
+#: includes/widgets/products-list.php:205
+msgid "Ascending"
+msgstr ""
+
+#: includes/widgets/products-grid.php:515
+#: includes/widgets/products-grid.php:677
+#: includes/widgets/products-list.php:510
+#: includes/widgets/products-list.php:672
+msgid "Background"
+msgstr ""
+
+#: includes/widgets/products-grid.php:735
+#: includes/widgets/products-grid.php:808
+#: includes/widgets/products-grid.php:889
+#: includes/widgets/products-grid.php:1096
+#: includes/widgets/products-grid.php:1135
+#: includes/widgets/products-list.php:730
+#: includes/widgets/products-list.php:803
+#: includes/widgets/products-list.php:884
+#: includes/widgets/products-list.php:971
+#: includes/widgets/products-list.php:1119
+#: includes/widgets/products-list.php:1158
+msgid "Background Color"
+msgstr ""
+
+#: includes/widgets/products-grid.php:107
+#: includes/widgets/products-list.php:106
+msgid "Best Selling Products"
+msgstr ""
+
+#: includes/widgets/products-grid.php:1146
+#: includes/widgets/products-list.php:1169
+msgid "Border Color"
+msgstr ""
+
+#: includes/widgets/products-grid.php:664
+#: includes/widgets/products-grid.php:745
+#: includes/widgets/products-grid.php:818
+#: includes/widgets/products-grid.php:917
+#: includes/widgets/products-grid.php:1047
+#: includes/widgets/products-list.php:659
+#: includes/widgets/products-list.php:740
+#: includes/widgets/products-list.php:813
+#: includes/widgets/products-list.php:912
+#: includes/widgets/products-list.php:1070
+msgid "Border Radius"
+msgstr ""
+
+#: includes/widgets/products-grid.php:999
+#: includes/widgets/products-list.php:1022
+msgid "Button"
+msgstr ""
+
+#: includes/widgets/products-grid.php:1066
+#: includes/widgets/products-list.php:1089
+msgid "Button color"
+msgstr ""
+
+#: includes/widgets/products-grid.php:455
+#: includes/widgets/products-list.php:450
+msgid "Button Text"
+msgstr ""
+
+#: includes/widgets/products-grid.php:440
+#: includes/widgets/products-list.php:435
+msgid "Button type"
+msgstr ""
+
+#: includes/widgets/products-grid.php:429
+#: includes/widgets/products-list.php:424
+msgid "Cart Button"
+msgstr ""
+
+#: includes/widgets/products-grid.php:928
+#: includes/widgets/products-list.php:923
+msgid "Category style"
+msgstr ""
+
+#: includes/widgets/products-grid.php:366
+#: includes/widgets/products-list.php:361
+msgid "Center"
+msgstr ""
+
+#: includes/widgets/products-grid.php:189
+#: includes/widgets/products-list.php:188
+msgid "Comment count"
+msgstr ""
+
+#: includes/widgets/products-grid.php:255
+#: includes/widgets/products-list.php:250
+msgid "Content Settings"
+msgstr ""
+
+#: includes/widgets/products-grid.php:325
+#: includes/widgets/products-list.php:320
+msgid "Crop Description By Word"
+msgstr ""
+
+#: includes/widgets/products-grid.php:280
+#: includes/widgets/products-list.php:275
+msgid "Crop Title By Word"
+msgstr ""
+
+#: includes/widgets/products-grid.php:170
+#: includes/widgets/products-list.php:169
+msgid "Custom order"
+msgstr ""
+
+#: includes/widgets/products-grid.php:186
+#: includes/widgets/products-list.php:185
+msgid "Date"
+msgstr ""
+
+#: includes/widgets/products-grid.php:205
+#: includes/widgets/products-list.php:204
+msgid "Descending"
+msgstr ""
+
+#: includes/widgets/products-grid.php:768
+#: includes/widgets/products-list.php:763
+msgid "Description"
+msgstr ""
+
+#: magical-products-display.php:236 magical-products-display.php:248
+#: magical-products-display.php:320
+msgid "Elementor"
+msgstr ""
+
+#: includes/widgets/products-grid.php:106
+#: includes/widgets/products-list.php:105
+msgid "Featured Products"
+msgstr ""
+
+#: includes/functions.php:175
+msgid "Featured!"
+msgstr ""
+
+#: includes/widgets/products-grid.php:101
+#: includes/widgets/products-list.php:100
+msgid "Filter By"
+msgstr ""
+
+#: includes/widgets/products-grid.php:219
+msgid "Grid Layout"
+msgstr ""
+
+#: includes/widgets/products-grid.php:225
+msgid "Grid Style"
+msgstr ""
+
+#: includes/widgets/products-grid.php:1110
+#: includes/widgets/products-list.php:1133
+msgid "Hover"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wpthemespace.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/nalam-1"
+msgstr ""
+
+#: includes/widgets/products-grid.php:185
+#: includes/widgets/products-list.php:184
+msgid "ID"
+msgstr ""
+
+#: includes/widgets/products-grid.php:588
+#: includes/widgets/products-list.php:583
+msgid "Image auto height"
+msgstr ""
+
+#: includes/widgets/products-grid.php:619
+#: includes/widgets/products-list.php:614
+msgid "Image div Height"
+msgstr ""
+
+#: includes/widgets/products-grid.php:598
+#: includes/widgets/products-list.php:593
+msgid "Image Height"
+msgstr ""
+
+#: includes/widgets/products-list.php:236
+msgid "Image Position"
+msgstr ""
+
+#: includes/widgets/products-grid.php:552
+#: includes/widgets/products-list.php:547
+msgid "Image style"
+msgstr ""
+
+#: magical-products-display.php:249
+msgid "Install Elementor"
+msgstr ""
+
+#: magical-products-display.php:291
+msgid "Install woocommerce"
+msgstr ""
+
+#: includes/widgets/products-grid.php:484
+#: includes/widgets/products-list.php:479
+msgid "Layout style"
+msgstr ""
+
+#: includes/widgets/products-grid.php:362
+#: includes/widgets/products-list.php:240
+#: includes/widgets/products-list.php:357
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/products-list.php:218
+msgid "List Layout"
+msgstr ""
+
+#: includes/widgets/products-list.php:224
+msgid "List Style"
+msgstr ""
+
+#: magical-products-display.php:189 magical-products-display.php:235
+#: magical-products-display.php:247 magical-products-display.php:277
+#: magical-products-display.php:289 magical-products-display.php:319
+#: magical-products-display.php:344
+msgid "Magical Products Display"
+msgstr ""
+
+#. Name of the plugin
+msgid "Magical products Display"
+msgstr ""
+
+#: includes/widgets/products-grid.php:503
+#: includes/widgets/products-grid.php:652
+#: includes/widgets/products-grid.php:714
+#: includes/widgets/products-grid.php:787
+#: includes/widgets/products-grid.php:857
+#: includes/widgets/products-grid.php:937
+#: includes/widgets/products-grid.php:1018
+#: includes/widgets/products-list.php:498
+#: includes/widgets/products-list.php:647
+#: includes/widgets/products-list.php:709
+#: includes/widgets/products-list.php:782
+#: includes/widgets/products-list.php:852
+#: includes/widgets/products-list.php:932
+#: includes/widgets/products-list.php:1041
+msgid "Margin"
+msgstr ""
+
+#: includes/widgets/products-grid.php:187
+#: includes/widgets/products-list.php:186
+msgid "Name"
+msgstr ""
+
+#: includes/widgets/products-grid.php:184
+#: includes/widgets/products-list.php:183
+msgid "None"
+msgstr ""
+
+#. Author of the plugin
+msgid "Noor alam"
+msgstr ""
+
+#: includes/widgets/products-grid.php:1077
+#: includes/widgets/products-list.php:1100
+msgid "Normal"
+msgstr ""
+
+#: includes/widgets/products-grid.php:591
+#: includes/widgets/products-list.php:586
+msgid "Off"
+msgstr ""
+
+#: includes/widgets/products-grid.php:590
+#: includes/widgets/products-list.php:585
+msgid "On"
+msgstr ""
+
+#: includes/widgets/products-grid.php:201
+#: includes/widgets/products-list.php:200
+msgid "order"
+msgstr ""
+
+#: includes/widgets/products-grid.php:180
+#: includes/widgets/products-list.php:179
+msgid "Orderby"
+msgstr ""
+
+#: includes/widgets/products-grid.php:492
+#: includes/widgets/products-grid.php:641
+#: includes/widgets/products-grid.php:703
+#: includes/widgets/products-grid.php:776
+#: includes/widgets/products-grid.php:868
+#: includes/widgets/products-grid.php:1007
+#: includes/widgets/products-list.php:487
+#: includes/widgets/products-list.php:636
+#: includes/widgets/products-list.php:698
+#: includes/widgets/products-list.php:771
+#: includes/widgets/products-list.php:863
+#: includes/widgets/products-list.php:943
+#: includes/widgets/products-list.php:1030
+msgid "Padding"
+msgstr ""
+
+#: magical-products-display.php:345
+msgid "PHP"
+msgstr ""
+
+#: includes/widgets/products-grid.php:156
+#: includes/widgets/products-list.php:155
+msgid "Product Categories"
+msgstr ""
+
+#: includes/widgets/products-grid.php:134
+#: includes/widgets/products-list.php:133
+msgid "Product IDs"
+msgstr ""
+
+#: includes/widgets/products-grid.php:146
+#: includes/widgets/products-list.php:145
+msgid "Product Limit"
+msgstr ""
+
+#: includes/widgets/products-grid.php:695
+#: includes/widgets/products-list.php:690
+msgid "Product Title"
+msgstr ""
+
+#: includes/widgets/products-grid.php:848
+#: includes/widgets/products-list.php:843
+msgid "Products Badge"
+msgstr ""
+
+#: includes/widgets/products-grid.php:31
+msgid "Products Grid"
+msgstr ""
+
+#: includes/widgets/products-list.php:31
+msgid "Products List"
+msgstr ""
+
+#: includes/widgets/products-grid.php:389
+#: includes/widgets/products-grid.php:841
+#: includes/widgets/products-list.php:384
+#: includes/widgets/products-list.php:836
+msgid "Products Meta"
+msgstr ""
+
+#: includes/widgets/products-grid.php:94 includes/widgets/products-list.php:93
+msgid "Products Query"
+msgstr ""
+
+#: includes/widgets/products-grid.php:525
+#: includes/widgets/products-list.php:520
+msgid "Radius"
+msgstr ""
+
+#: includes/widgets/products-grid.php:190
+#: includes/widgets/products-list.php:189
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/products-grid.php:110
+#: includes/widgets/products-list.php:109
+msgid "Random Products"
+msgstr ""
+
+#: includes/widgets/products-grid.php:976
+#: includes/widgets/products-list.php:999
+msgid "Rating star Color"
+msgstr ""
+
+#: includes/widgets/products-grid.php:986
+#: includes/widgets/products-list.php:1009
+msgid "Rating star Fill Color"
+msgstr ""
+
+#: includes/widgets/products-grid.php:968
+#: includes/widgets/products-list.php:991
+msgid "Rating Style"
+msgstr ""
+
+#: includes/widgets/products-grid.php:105
+#: includes/widgets/products-list.php:104
+msgid "Recent Products"
+msgstr ""
+
+#: includes/widgets/products-grid.php:370
+#: includes/widgets/products-list.php:241
+#: includes/widgets/products-list.php:365
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/products-grid.php:108
+#: includes/widgets/products-list.php:107
+msgid "Sale Products"
+msgstr ""
+
+#: includes/functions.php:169
+msgid "Sale!"
+msgstr ""
+
+#: includes/functions.php:72
+msgid "Select"
+msgstr ""
+
+#: includes/widgets/products-grid.php:120
+#: includes/widgets/products-list.php:119
+msgid "Select Product"
+msgstr ""
+
+#: includes/widgets/products-grid.php:397
+#: includes/widgets/products-list.php:392
+msgid "Show Badge"
+msgstr ""
+
+#: includes/widgets/products-grid.php:348
+#: includes/widgets/products-list.php:343
+msgid "Show button"
+msgstr ""
+
+#: includes/widgets/products-grid.php:111
+#: includes/widgets/products-list.php:110
+msgid "Show By Id"
+msgstr ""
+
+#: includes/widgets/products-grid.php:406
+#: includes/widgets/products-list.php:401
+msgid "Show Category"
+msgstr ""
+
+#: includes/widgets/products-grid.php:316
+#: includes/widgets/products-list.php:311
+msgid "Show Product Description"
+msgstr ""
+
+#: includes/widgets/products-grid.php:338
+#: includes/widgets/products-list.php:333
+msgid "Show Product Price"
+msgstr ""
+
+#: includes/widgets/products-grid.php:271
+#: includes/widgets/products-list.php:266
+msgid "Show Product Title"
+msgstr ""
+
+#: includes/widgets/products-grid.php:263
+#: includes/widgets/products-list.php:258
+msgid "Show Products image"
+msgstr ""
+
+#: includes/widgets/products-grid.php:238
+msgid "Show Products Per Row"
+msgstr ""
+
+#: includes/widgets/products-grid.php:416
+#: includes/widgets/products-list.php:411
+msgid "Show Ratting"
+msgstr ""
+
+#. Description of the plugin
+msgid "Show your site posts in a great way."
+msgstr ""
+
+#: includes/widgets/products-grid.php:229
+#: includes/widgets/products-list.php:228
+msgid "Style One"
+msgstr ""
+
+#: includes/widgets/products-grid.php:231
+msgid "Style Three"
+msgstr ""
+
+#: includes/widgets/products-grid.php:230
+#: includes/widgets/products-list.php:229
+msgid "Style Two"
+msgstr ""
+
+#: includes/widgets/products-grid.php:725
+#: includes/widgets/products-grid.php:798
+#: includes/widgets/products-grid.php:879
+#: includes/widgets/products-grid.php:948
+#: includes/widgets/products-grid.php:1084
+#: includes/widgets/products-grid.php:1124
+#: includes/widgets/products-list.php:720
+#: includes/widgets/products-list.php:793
+#: includes/widgets/products-list.php:874
+#: includes/widgets/products-list.php:961
+#: includes/widgets/products-list.php:1107
+#: includes/widgets/products-list.php:1147
+msgid "Text Color"
+msgstr ""
+
+#: includes/widgets/products-grid.php:188
+#: includes/widgets/products-list.php:187
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/products-grid.php:293
+#: includes/widgets/products-list.php:288
+msgid "Title HTML Tag"
+msgstr ""
+
+#: includes/widgets/products-grid.php:109
+#: includes/widgets/products-list.php:108
+msgid "Top Rated Products"
+msgstr ""
+
+#: includes/widgets/products-grid.php:758
+#: includes/widgets/products-grid.php:831
+#: includes/widgets/products-grid.php:901
+#: includes/widgets/products-grid.php:960
+#: includes/widgets/products-list.php:753
+#: includes/widgets/products-list.php:826
+#: includes/widgets/products-list.php:896
+#: includes/widgets/products-list.php:983
+msgid "Typography"
+msgstr ""
+
+#: includes/widgets/products-grid.php:445
+#: includes/widgets/products-grid.php:458
+#: includes/widgets/products-grid.php:459
+#: includes/widgets/products-list.php:440
+#: includes/widgets/products-list.php:453
+#: includes/widgets/products-list.php:454
+msgid "View details"
+msgstr ""
+
+#: includes/widgets/products-grid.php:559
+#: includes/widgets/products-list.php:554
+msgid "Width"
+msgstr ""
+
+#: magical-products-display.php:278 magical-products-display.php:290
+msgid "woocommerce"
+msgstr ""

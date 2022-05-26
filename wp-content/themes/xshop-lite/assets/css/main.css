@@ -1,0 +1,89 @@
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #666;
+}
+article a,
+a:hover {
+  text-decoration: underline !important;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Gemunu Libre", sans-serif;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+button,
+.button {
+  border-radius: 0 !important;
+}
+a,
+.entry-meta span,
+.entry-footer span,
+.entry-meta a,
+.ghead-meta,
+.widget ul li a:hover {
+  color: #02b290;
+}
+.list-pimg {
+  position: relative;
+  height: 100%;
+  min-height: 250px;
+}
+.list-pimg img {
+  left: 0;
+  right: 0;
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
+}
+
+.woocommerce ul.products li.product,
+.woocommerce-page ul.products li.product {
+  padding: 0 0 20px 0;
+}
+.woocommerce ul.products li.product a img {
+  border: none;
+}
+.xshopkit-badge span:after {
+  display: none;
+}
+.xshopkit-badge span {
+  padding: 10px;
+}
+input[type="submit"],
+button,
+a#clickTop,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+button.button,
+.entry-content table thead th,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.xshopkit-badge span:before,
+.woocommerce nav.woocommerce-pagination ul li a:focus,
+.woocommerce nav.woocommerce-pagination ul li a:hover,
+.woocommerce nav.woocommerce-pagination ul li span.current,
+.pagination .nav-links a:hover,
+.pagination .nav-links span {
+  background: #02b290;
+}
+.woocommerce .woocommerce-ordering select {
+  text-align: center;
+}
+.product_meta > span {
+  display: block;
+  margin-bottom: 7px;
+}
+.quantity input[type="number"] {
+  min-height: 35px;
+}
